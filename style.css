@@ -38,7 +38,7 @@ body{
     height: 30px;
 }
 
-    @media screen and (max-width: 1920px) {
+    @media screen and (max-width: 2560px) {
     .column{
     flex-basis: 20%;
     }
