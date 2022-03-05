@@ -15,7 +15,7 @@ body{
 }
 
 #box{
-    height: 120px;
+    height: fit-content;
     background-image: url(./images/placeholder.png);
     background-color: #6ba2d9;
     background-position: center;
